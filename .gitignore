@@ -1,0 +1,17 @@
+node_modules
+cypress\fixtures\*.*
+cypress\plugins\*.*
+cypress\screenshots\*.*
+cypress\videos\*.*
+cypress/fixtures/example.json
+cypress/plugins/index.js
+cypress/screenshots/login.cy.js/Should not login with empty login (failed) (attempt 2).png
+cypress/screenshots/login.cy.js/Should not login with empty login (failed).png
+cypress/screenshots/mytest.cy.js/Add Book (failed).png
+cypress/screenshots/mytest.cy.js/Add Favorite Book (failed) (attempt 2).png
+cypress/screenshots/mytest.cy.js/Add Favorite Book (failed).png
+cypress/videos/lesion.cy.js.mp4
+cypress/videos/login.cy.js.mp4
+cypress/videos/mytest.cy.js.mp4
+cypress/e2e/lesion.cy.js
+cypress/e2e/login.cy.js
